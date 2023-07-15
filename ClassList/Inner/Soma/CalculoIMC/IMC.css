@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Roboto' sans-serif;
+    box-sizing: border-box;
+}
+#peso {
+    padding: 10px;
+    margin-bottom: aquamarine;
+}
+#altura {
+    padding: 10px;
+    margin-bottom: auto;
+}
+#resultado {
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+}

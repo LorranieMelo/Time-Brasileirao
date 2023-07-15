@@ -1,0 +1,11 @@
+#informacao{
+    border: none;
+    background-color: #fff;
+    font-weight: 900;
+}
+div{
+    display: none;
+}
+.sobre{
+    display: block;
+}
